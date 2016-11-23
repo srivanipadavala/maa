@@ -1,6 +1,6 @@
 dist
 build
-bin
+bin/
 rebel.xml
 MANIFEST.MF
 .settings
